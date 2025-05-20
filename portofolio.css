@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: brown;
+}
+
+header {
+    background: pink;
+    color:brown;
+    padding: 20px 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background: pink;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px pink;
+}
+
+h2 {
+    color: pink;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: brown;
+    color: pink;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+p {
+    text-align: center;
+}
